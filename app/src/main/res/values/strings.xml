@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="user">* User *</string>
+    <string name="user_name">Name</string>
+    <string name="user_country">Country</string>
+    <string name="text">Text</string>
+    <string name="created">Created at </string>
+    <string name="msg_wait">Loading data. Please wait..</string>
+    <string name="msg_no_result">Sorry, there was a problem with your request.</string>
+    <string name="msg_warning_connection">Please check your network connection</string>
+</resources>
