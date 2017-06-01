@@ -1,4 +1,4 @@
-package mobiletest.smaato.com.smaatoproject;
+package mobiletest.germancompany.com.androidproject;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -107,7 +107,6 @@ public class MainActivity extends Activity {
 
             progressDialog.dismiss();
             progressDialog = null;
-
             Message msg = handler.obtainMessage();
             msg.obj = mainClass.getOneData();
             handler.sendMessage(msg);

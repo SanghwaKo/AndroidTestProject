@@ -1,4 +1,4 @@
-package mobiletest.smaato.com.smaatoproject;
+package mobiletest.germancompany.com.androidproject;
 
 /**
  * Created by KSH on 2017-05-31.
